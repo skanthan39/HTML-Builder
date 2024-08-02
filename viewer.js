@@ -7,8 +7,6 @@ const server = location.origin === 'http://localhost' ? "http://52.172.32.88" :l
 
 
 
-
-
 let iframePresent = true;
 // function getViewer(){
 //   const urlParam = new URLSearchParams(window.location.search);
