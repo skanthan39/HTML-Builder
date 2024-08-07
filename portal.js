@@ -850,7 +850,7 @@ function showPopupEvent() {
     $("#settingdSideContainer").removeClass("hide-important");
      $(".gjs-trt-trait__wrp.gjs-trt-trait__wrp-id").removeClass("hide-important");
     $(".gjs-sm-sectors.gjs-one-bg.gjs-two-color").removeClass("settingModifications");
-    $(".gjs-pn-views-container1").css("min-width","50vw");
+    $(".gjs-pn-views-container1").css("min-width","49vw");
     $("#closebtn").removeClass("no-border-bottom");
 
   }
